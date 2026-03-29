@@ -79,3 +79,4 @@ I can keep updating this file as we continue working in this thread and workspac
 - Added suggested budget tiers and recommended pricing ranges for the top Greenville outreach prospects.
 - Created a separate pricing document with down payment guidance, monthly support plan options, and recommended client-facing pricing language.
 - Created a Word-compatible copy of the client pricing sheet for mobile sharing and presentation use.
+- Created a focused pricing summary page for presentations so QR sharing can point directly to monthly plans and add-on services instead of the full document.
